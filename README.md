@@ -1,4 +1,4 @@
-## TG1 - Cenário de negócio, concepção do sistema e modelo de caso de uso para o software GastoCerto
+## Projeto desenvolvido para a disciplina de Desenvolvimento de Sistemas II
 
 Acesse a [Wiki](https://github.com/GastoCerto/gastocerto/wiki/GastoCerto-%E2%80%90-Wiki) do projeto para visualizar todos os tópicos detalhados. 
 </br>
